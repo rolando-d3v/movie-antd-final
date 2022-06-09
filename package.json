@@ -7,7 +7,6 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "antd": "3.23.6",
-    "node-sass": "^4.13.1",
     "query-string": "^6.12.1",
     "rc-pagination": "^2.2.0",
     "react": "^16.13.1",
@@ -15,7 +14,8 @@
     "react-icons": "^3.10.0",
     "react-player": "^1.15.3",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "sass": "^1.52.3"
   },
   "scripts": {
     "start": "react-scripts start",
